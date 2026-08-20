@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# The cache is keyed by repository name, so it lists every private repo you
+# own. This repository is public. Never commit it.
+cache/
+
+# Your source photo. Not needed to build the card - ascii_art.txt is already
+# generated - and this repository is public. Delete this line if you would
+# rather keep the photo with the code.
+photo.png
