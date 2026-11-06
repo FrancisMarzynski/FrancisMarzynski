@@ -40,7 +40,8 @@ STATIC = [
     ("field", "Spoken", "Polish, English, some Spanish"),
 
     ("section", "Focus"),
-    ("field", "Building", "operating-memory"),
+    ("field", "Building", "ShowUp, a cold-email service (in development)"),
+    ("field", "Also building", "operating-memory"),
     ("field", "Field", "AI engineering"),
     ("field", "Stack", "Python, SQLite, agent pipelines"),
     ("field", "Interests", "memory systems for LLM agents"),
